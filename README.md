@@ -15,5 +15,5 @@ badge&amp;logo=git&amp;logoColor=white)
 stats.vercel.app/api?username=renukacsit&amp;show_icons=true&amp;theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-
 langs/?username=eslavathvikram&amp;layout=compact)
-## �� Connect with Me- ✉️ Email: renuka@example.com- �� LinkedIn: [Renu
-Profile](https://linkedin.com/in/renuka-example)
+## �� Connect with Me- ✉️ Email: evikram_cse2305e0@mgit.ac.in- �� LinkedIn: [Renu
+Profile](https://linkedin.com/in/eslavathvikram-example)
